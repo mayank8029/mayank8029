@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayank8029
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning expressjs 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mayankjhanwar29@gmail.com
 
